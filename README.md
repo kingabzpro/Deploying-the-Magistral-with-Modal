@@ -1,4 +1,4 @@
-# Deploying-the-Magistral-with-Modal
+# Deploying the Magistral Model vLLM Server with Modal
 
 This project demonstrates how to deploy the Magistral-Small-2506 model using vLLM and Modal, and how to interact with it using the latest OpenAI Python SDK.
 
